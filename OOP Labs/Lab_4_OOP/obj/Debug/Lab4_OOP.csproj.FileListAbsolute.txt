@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab_4_OOP\bin\Debug\Lab_4_OOP.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab_4_OOP\bin\Debug\Lab_4_OOP.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab_4_OOP\bin\Debug\Lab_4_OOP.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab4_OOP.csprojResolveAssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab_4_OOP.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab_4_OOP.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\bin\Debug\Lab_4_OOP.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\bin\Debug\Lab_4_OOP.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\bin\Debug\Lab_4_OOP.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab4_OOP.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab4_OOP.csproj.SuggestedBindingRedirects.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab4_OOP.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab_4_OOP.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab_4_OOP\obj\Debug\Lab_4_OOP.pdb
