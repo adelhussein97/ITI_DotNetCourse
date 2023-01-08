@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\ITI_Lab1Basics\bin\Debug\ITI_Lab1Basics.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\ITI_Lab1Basics\bin\Debug\ITI_Lab1Basics.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\ITI_Lab1Basics\bin\Debug\ITI_Lab1Basics.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.csprojResolveAssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\bin\Debug\ITI_Lab1Basics.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\bin\Debug\ITI_Lab1Basics.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\bin\Debug\ITI_Lab1Basics.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.csproj.SuggestedBindingRedirects.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\ITI_Lab1Basics\obj\Debug\ITI_Lab1Basics.pdb

@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab2_Loops_Array\bin\Debug\Lab2_Loops_Array.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab2_Loops_Array\bin\Debug\Lab2_Loops_Array.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab2_Loops_Array\bin\Debug\Lab2_Loops_Array.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.csprojResolveAssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\bin\Debug\Lab2_Loops_Array.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\bin\Debug\Lab2_Loops_Array.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\bin\Debug\Lab2_Loops_Array.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.csproj.SuggestedBindingRedirects.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab2_Loops_Array\obj\Debug\Lab2_Loops_Array.pdb

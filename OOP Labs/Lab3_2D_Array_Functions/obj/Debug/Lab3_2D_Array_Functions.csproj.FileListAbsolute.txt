@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab3_2D_Array_Functions\bin\Debug\Lab3_2D_Array_Functions.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab3_2D_Array_Functions\bin\Debug\Lab3_2D_Array_Functions.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab3_2D_Array_Functions\bin\Debug\Lab3_2D_Array_Functions.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.csprojResolveAssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Day 1\Assignment\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\bin\Debug\Lab3_2D_Array_Functions.exe.config
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\bin\Debug\Lab3_2D_Array_Functions.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\bin\Debug\Lab3_2D_Array_Functions.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.csproj.SuggestedBindingRedirects.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab3_2D_Array_Functions\obj\Debug\Lab3_2D_Array_Functions.pdb
