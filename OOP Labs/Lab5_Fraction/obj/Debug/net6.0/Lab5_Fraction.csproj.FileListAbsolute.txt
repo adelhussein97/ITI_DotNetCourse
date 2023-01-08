@@ -1,0 +1,15 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\bin\Debug\net6.0\Lab5_Fraction.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\bin\Debug\net6.0\Lab5_Fraction.deps.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\bin\Debug\net6.0\Lab5_Fraction.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\bin\Debug\net6.0\Lab5_Fraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\bin\Debug\net6.0\Lab5_Fraction.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\refint\Lab5_Fraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\Lab5_Fraction.genruntimeconfig.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab5_Fraction\obj\Debug\net6.0\ref\Lab5_Fraction.dll

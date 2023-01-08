@@ -1,0 +1,15 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\bin\Debug\net6.0\Lab6_InheritanceClass.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\bin\Debug\net6.0\Lab6_InheritanceClass.deps.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\bin\Debug\net6.0\Lab6_InheritanceClass.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\bin\Debug\net6.0\Lab6_InheritanceClass.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\bin\Debug\net6.0\Lab6_InheritanceClass.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\refint\Lab6_InheritanceClass.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\Lab6_InheritanceClass.genruntimeconfig.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lab6_InheritanceClass\obj\Debug\net6.0\ref\Lab6_InheritanceClass.dll
