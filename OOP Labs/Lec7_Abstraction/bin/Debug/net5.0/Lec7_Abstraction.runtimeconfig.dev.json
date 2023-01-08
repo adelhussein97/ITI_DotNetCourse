@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\odoo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\odoo\\.nuget\\packages"
+    ]
+  }
+}

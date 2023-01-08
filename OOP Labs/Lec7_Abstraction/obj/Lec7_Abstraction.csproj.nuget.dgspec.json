@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ITI Qena .Net Full Stack\\7. OOP\\Demo_Assignment_Lab_C#OOP\\ITI_Lab1Basics\\Lec7_Abstraction\\Lec7_Abstraction.csproj": {}
+  },
+  "projects": {
+    "E:\\ITI Qena .Net Full Stack\\7. OOP\\Demo_Assignment_Lab_C#OOP\\ITI_Lab1Basics\\Lec7_Abstraction\\Lec7_Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ITI Qena .Net Full Stack\\7. OOP\\Demo_Assignment_Lab_C#OOP\\ITI_Lab1Basics\\Lec7_Abstraction\\Lec7_Abstraction.csproj",
+        "projectName": "Lec7_Abstraction",
+        "projectPath": "E:\\ITI Qena .Net Full Stack\\7. OOP\\Demo_Assignment_Lab_C#OOP\\ITI_Lab1Basics\\Lec7_Abstraction\\Lec7_Abstraction.csproj",
+        "packagesPath": "C:\\Users\\odoo\\.nuget\\packages\\",
+        "outputPath": "E:\\ITI Qena .Net Full Stack\\7. OOP\\Demo_Assignment_Lab_C#OOP\\ITI_Lab1Basics\\Lec7_Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\odoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

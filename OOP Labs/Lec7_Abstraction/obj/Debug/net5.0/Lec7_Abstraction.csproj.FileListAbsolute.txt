@@ -1,0 +1,16 @@
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\Lec7_Abstraction.exe
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\Lec7_Abstraction.deps.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\Lec7_Abstraction.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\Lec7_Abstraction.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\Lec7_Abstraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\ref\Lec7_Abstraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\bin\Debug\net5.0\Lec7_Abstraction.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\ref\Lec7_Abstraction.dll
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.pdb
+E:\ITI Qena .Net Full Stack\7. OOP\Demo_Assignment_Lab_C#OOP\ITI_Lab1Basics\Lec7_Abstraction\obj\Debug\net5.0\Lec7_Abstraction.genruntimeconfig.cache

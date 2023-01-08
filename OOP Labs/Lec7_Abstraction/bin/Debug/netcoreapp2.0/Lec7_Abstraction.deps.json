@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Lec7_Abstraction/1.0.0": {
+        "runtime": {
+          "Lec7_Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec7_Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
