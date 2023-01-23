@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "Day6 JS Final"
+	},
+	{
+		"path": "Day1 HTML5 & CSS3"
+	},
+	{
+		"path": "Day2 CSS3"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Day2 CSS3"
+  }
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Day 6 JS</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <!-- <form action="home.html">
+            <label for="userName">UserName</label>
+            <input type="text" required id="userName" name="UserName" placeholder="Enter Your User Name">
+            <label for="UserName">Password</label>
+            <input type="password" required id="password" name="password" placeholder="Password">
+            <input type="submit" onclick="SaveData()" id="btn" value="Save Data">
+        </form>
+        <hr>
+        <hr> -->
+        <form action="home.html">
+            <label for="_userName">UserName</label>
+            <input type="text" required id="_userName" name="UserName" placeholder="Enter Your User Name">
+            <label for="_password">Password</label>
+            <input type="password" required id="_password" name="password" placeholder="Password">
+            <input type="checkbox" id="remember">
+            <label for="remember">Remember me </label>
+            <input type="submit" onclick="SaveDataWhenChecked()" id="_btn" value="Save Data">
+        </form>
+        <hr>
+        <hr>
+        <h2>Ajax Task</h2>
+        <input type="submit" onclick="GetDataFromApi()" id="_btn" value="Get Data From API">
+        <input id="search" type="search" placeholder="Write Person ID ">
+        <input type="submit" onclick="GetDataBasedonID()" id="_btn" value="Search Person ID">
+        <div>First Name : <span id="firstname"></span>
+        </div>
+        <div>Last Name : <span id="lastname"></span>
+        </div>
+        <div>Image : <img id="_image" src="" alt="">
+        </div>
+
+
+
+        <script src="main.js"></script>
+    </body>
+
+</html>

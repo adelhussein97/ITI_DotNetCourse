@@ -1,0 +1,109 @@
+body {
+    font-family: "Work-sans", sans-serif;
+
+}
+
+.container {
+    width: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.header {
+    padding: 20px;
+    background-color: cornflowerblue;
+    width: 600px;
+    height: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.header .logo {
+    width: 60px;
+    position: sticky;
+    top: 15px;
+    left: 160px;
+}
+
+.header .links {
+    position: relative;
+    right: 40px;
+    top: 0px;
+}
+
+.photo {
+    position: relative;
+    left: 0px;
+    top: 100px;
+
+}
+
+.header .links .icon {
+    width: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    top: calc(100%+15px);
+}
+
+.header .links .icon span {
+    background-color: black;
+    margin-bottom: 5px;
+    height: 2px;
+    width: 100%;
+
+}
+
+.header .links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    position: absolute;
+    right: 0;
+    min-width: 200px;
+    top: calc(100%+15px);
+    display: none;
+    z-index: 1;
+
+
+}
+
+.header .links:hover ul {
+    display: block;
+}
+
+.header .links ul li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #333;
+    transition: var(--main-duration);
+}
+
+.header .links ul li a:hover {
+    padding-left: 25px;
+}
+
+.info {
+    display: flex;
+}
+
+.info input {
+    display: block;
+}

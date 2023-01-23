@@ -1,0 +1,23 @@
+input {
+    width: 30%;
+    height: 25px;
+    padding: 0 px 20px;
+    margin: 8px 0;
+    background-color: #3CBC8D;
+    color: "red";
+    display: block;
+    border-radius: 15px
+}
+
+input[type="submit"] {
+
+    background-color: #09c;
+    border-radius: 15px
+}
+
+input[type="checkbox"] {
+    width: auto;
+    display: inline-flex;
+    background-color: #09c;
+    border-radius: 15px
+}

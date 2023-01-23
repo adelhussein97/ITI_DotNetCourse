@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> CSS magic</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<style>
+		.none-bullet-list {
+			list-style-type: none;
+		}
+
+		#linksbar .none-bullet-list a {
+			color: red;
+			background-color: pink;
+			text-decoration: none;
+		}
+
+		#linksbar .none-bullet-list a:hover {
+			color: pink;
+			background-color: red;
+
+		}
+
+		#content h2+p {
+			font-weight: bold;
+			font-size: 12px;
+
+		}
+
+		#loginform {
+			border: 2px dashed rgb(20, 70, 60);
+		}
+
+		input[type='text'] {
+			background-color: yellow;
+
+		}
+
+		input:focus {
+			background-color: white;
+		}
+
+		.tabled-bordered {
+			display: table-cell;
+			padding: 5px;
+			border: 2px solid black;
+
+		}
+
+		#aboutus span>::after {
+			color: yellow;
+
+		}
+
+		#content #aboutus span {
+			color: yellow;
+		}
+
+		#content #aboutus {
+			color: red;
+		}
+	</style>
+
+	<body>
+		<div class="navbar">
+			<ul>
+				<li class="active"><a target="_blank" href="HTML Page to Apply CSS.html">Home</a></li>
+				<li><a target="_blank" href="News.html">News</a></li>
+				<li><a target="_blank" href="Contacts.html">Contacts</a></li>
+			</ul>
+
+		</div>
+		<div id="header" style="width: 100%; background-color:red;">
+
+			<h1>This is the page header</h1>
+		</div>
+		<span id="linksbar" style="width: 25%; background-color:gray; float: left;">
+			<div id="loginform">
+				User name: <input type="text" />
+				</br>
+				Password: <input type="password" />
+				<br />
+				<input type="checkbox" /> remember me
+				<br />
+				<button>login</button>
+			</div>
+			<h2> site menu</h2>
+			<ul class="none-bullet-list">
+				<li><a href="#">link1</a></li>
+				<li><a href="#">link2</a></li>
+				<li><a href="#">link3</a></li>
+				<li><a href="#">link4</a></li>
+				<li><a href="#">link5</a></li>
+			</ul>
+		</span>
+		<span id="content" style="width: 75%; background-color:pink; float: left;">
+			<h2> about us</h2>
+			<p id="aboutus">
+				This is a paragraph This is a paragraph This is a paragraph This is a paragraph This is a paragraph This
+				is a paragraph This is a paragraph This is a paragraph This is a paragraph This is a paragraph This is a
+				paragraph This is a paragraph This is a paragraph This is a paragraph This is a paragraph This is a
+				paragraph This is a paragraph. <span>Read This</span>
+			</p>
+
+			<div id="titles">
+				<p class="tabled-bordered"> title1</p>
+				<p class="tabled-bordered"> title2</p>
+				<p class="tabled-bordered"> title3</p>
+			</div>
+
+		</span>
+
+
+
+	</body>
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About</title>
+    </head>
+
+    <body>
+        <script>
+            document.write( `
+            <p class="msg">Wellcome : ${ location.search.split( "&" )[ 0 ].split( "=" )[ 1 ] } </p>
+            
+            <P class="msg">Your Email is : ${ decodeURIComponent( location.search ).split( "&" )[ 2 ].split( "=" )[ 1 ] } </p>
+            ` )
+            document.getElementsByClassName( "msg" )[ 0 ].style.fontWeight = "bold"
+            document.getElementsByClassName( "msg" )[ 1 ].style.fontWeight = "bold"
+        </script>
+
+    </body>
+
+</html>

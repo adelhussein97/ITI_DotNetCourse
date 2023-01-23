@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "Day3JS"
+	},
+	{
+		"path": "Day4JS"
+	},
+	{
+		"path": "Day5JS"
+	},
+	{
+		"path": "Day1 HTML5 & CSS3"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Day1 HTML5 & CSS3"
+  }
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Day 4 Login Form</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <fieldset>
+            <legend>Personal Information</legend>
+            <form action="about.html">
+
+                <label>Username</label>
+                <input type="text" name="username" placeholder="UserName">
+                <label>Password</label>
+                <input type="password" name="password" placeholder="password">
+                <label>Email</label>
+                <input type="email" name="Email" placeholder="Email">
+                <input type="submit" value="Login">
+
+
+            </form>
+            <div>
+                <button onclick="OpenWindow()">Show Message</button><br><br>
+                <a target="_blank" href="TextStyle.html">Click me To Show Styles</a>
+
+            </div>
+            <div><button onclick="ShowGallary()">Gallary</button> <br></div>
+
+            <div class="gallary">
+                <img onmouseover="ReduceOpacity(this)" onmouseout="ResetOpacity(this)" src="imgs/1.jpg" alt="">
+                <img onmouseover="ReduceOpacity(this)" onmouseout="ResetOpacity(this)" src="imgs/2.jpg" alt="">
+                <img onmouseover="ReduceOpacity(this)" onmouseout="ResetOpacity(this)" src="imgs/3.jpg" alt="">
+                <img onmouseover="ReduceOpacity(this)" onmouseout="ResetOpacity(this)" src="imgs/4.jpg" alt="">
+
+            </div>
+
+        </fieldset>
+        <script src="index.js"></script>
+    </body>
+
+</html>

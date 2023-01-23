@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            img {
+                width: 250px;
+                height: 250px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div><button><a target="_blank" href="Calculator.html">Show Calculator</a> </button></div> <br> <br>
+        <div>
+            <button onclick="GetNext(document.querySelector('img'))">Next</button>
+            <button onclick="startSlider(document.querySelector('img'))">Slideshow</button>
+            <button onclick="StopSlider()">Stop</button>
+            <button onclick="GetPrevious(document.querySelector('img'))">Previous</button>
+
+        </div>
+        <hr>
+        <div>
+            <img src="images/1.jpg" alt="">
+        </div>
+        <hr><br>
+        <div>
+            <form action="">
+                <input type="text" onkeydown="ValidateNumber(event)" name="" id="idNumber">
+            </form>
+        </div>
+        <hr><br>
+        <div>
+            <button><a target="_blank" href="Registration.html">Show Registration Form</a> </button>
+        </div>
+        <script src="main.js"></script>
+    </body>
+
+</html>

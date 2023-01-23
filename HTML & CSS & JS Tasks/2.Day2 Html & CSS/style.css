@@ -1,0 +1,48 @@
+* {
+    font-family: 'Lucida Calligraphy'
+
+}
+
+
+#header h1 {
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.navbar {
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    padding-top: 0px;
+
+
+}
+
+.navbar ul {
+    position: fixed;
+    background-color: black;
+
+
+    display: flex;
+    list-style: none;
+    width: 96%;
+}
+
+.navbar li {
+    padding: 5px;
+
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar li:hover,
+.active {
+    background-color: green;
+    color: white;
+}

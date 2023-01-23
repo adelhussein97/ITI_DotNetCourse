@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+      input {
+        width: 30%;
+        height: 25px;
+        padding: 0 px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: solid 1px black;
+        background-color: #3CBC8D;
+        color: "red";
+        display: flex;
+        border-radius: 15px
+      }
+
+      input[type="submit"] {
+
+        background-color: #09c;
+        border-radius: 15px
+      }
+
+      input[type="checkbox"] {
+        width: auto;
+        display: inline-flex;
+        background-color: #09c;
+        border-radius: 15px
+      }
+
+      #id {
+        margin: auto auto;
+      }
+
+      table {
+        /* border-collapse: collapse; */
+        width: 100%;
+      }
+
+      th,
+      td {
+        text-align: left;
+        padding: 8px;
+      }
+
+      tr:nth-child(even) {
+        background-color: #f2f2f2
+      }
+
+      th {
+        background-color: #4CAF50;
+        color: white;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <div>
+        <form action="main.html" onsubmit="">
+          <label for="fullName">Full Name</label>
+          <input type="text" onclick="this.select()" onfocus="ChangeStyle(this,'white')"
+            onblur="ChangeStyle(this,'#3CBC8D')" onmouseleave="ValidateName(this)" required id="fullName"
+            name="fullName" placeholder="Enter Your Full Name"><span></span>
+          <input type="email" required id="email" name="email" placeholder="Email">
+
+          <select name="city" id="city">
+            <option selected disabled>Please Choose City</option>
+            <option value="Beni-Suef">Beni-Suef</option>
+            <option value="Somosta">Somosta</option>
+            <option value="Beba">Beba</option>
+            <option value="El-fashen">El-fashen</option>
+            <option value="Bedhal">Bedhal</option>
+          </select><br>
+
+          <input type="password" required id="password" name="password" placeholder="Password">
+
+          <input type="password" onclick="this.select()" onmouseleave="ValidatePassword(this)" required
+            id="repeatPassword" name="repeatPassword" placeholder="Repeat Password">
+          <span></span> <br>
+          <input type="checkbox" id="terms" name="terms">
+          <label for="terms">I accept the terms and conditions </label>
+          <input type="submit" id="btn" value="Save Data">
+
+        </form>
+      </div>
+
+      <h2>Personal Students Data</h2>
+
+      <table id="stdtable">
+        <tr>
+          <th>Firstname</th>
+          <th>Lastname</th>
+          <th>Degree</th>
+        </tr>
+
+      </table>
+      <script src="main.js">
+
+
+      </script>
+  </body>
+
+</html>

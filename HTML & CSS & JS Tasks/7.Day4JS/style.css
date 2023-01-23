@@ -1,0 +1,70 @@
+ body {
+     background: antiquewhite;
+     font-family: Arial, Tahoma
+ }
+
+ fieldset {
+
+     background: #EEE;
+     border: 1px solid #CCC;
+     padding: 10px;
+     /* margin-bottom: 10px;*/
+     width: 500px;
+     margin: 20px auto;
+     /* to make center form*/
+ }
+
+ legend {
+     text-align: center;
+     background: white;
+     color: blue;
+     border: 1px solid #CCC;
+     padding: 5px;
+     margin-bottom: 10px;
+
+ }
+
+ label {
+     margin-bottom: 5px;
+     margin-top: 5px;
+     display: block;
+ }
+
+ input {
+     margin-bottom: 5px;
+     /*padding-left: 5px;
+                padding-top: 5px;
+                padding-bottom: 5px;*/
+ }
+
+ input[type="text"],
+ input[type="password"],
+ input[type="submit"] {
+     display: block;
+     /* To orgnaize data in block without using <br> */
+     padding-left: 5px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+ }
+
+ iframe {
+     width: 700px;
+     height: 400px;
+     margin: 20px;
+ }
+
+ img {
+     padding: 10px;
+     height: 110px;
+     margin: auto
+ }
+
+ .gallary {
+     display: none;
+ }
+
+ .imgAnimation {
+     padding: 50 40px;
+     height: 30px;
+     margin: auto
+ }
