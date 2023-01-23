@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Header Nav bar</title>
+        <script src="https://kit.fontawesome.com/58a3667ad9.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+
+        <!-- Web Fonts  -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@600&display=swap"
+            rel="stylesheet">
+
+        <!-- Kit Font Awsome -->
+        <script src="https://kit.fontawesome.com/58a3667ad9.js" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            <header class="navbar">
+                <ul>
+                    <li class="focus"><i class="fa-solid fa-house-user"></i><a href=""></a></li>
+                    <li class="focus_item"><i class="fa-solid fa-magnifying-glass"></i><a href=""></a></li>
+                    <li class="focus_item"><i class="fa-solid fa-envelope"></i><a href=""></a></li>
+                    <li class="focus_item"><i class="fa-solid fa-globe"></i><a href=""></a></li>
+                    <li class="focus_item"><i class="fa-brands fa-facebook"></i><a href=""></a></li>
+                    <li class="focus_item"><i class="fa-sharp fa-solid fa-trash"></i><a href=""></a></li>
+
+
+                </ul>
+
+            </header>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium illo enim impedit ea. Ullam,
+                    voluptas nesciunt, nisi iste deserunt aliquam saepe, iusto praesentium modi vel impedit asperiores
+                    odio
+                    maxime facilis.</p>
+            </div>
+            <div>
+                <p>
+                    اللّغة العربيّة من اللّغات العالميّة الأكثر انتشاراً في العالم، وتعتبرُ من إحدى اللّغات المُعتمدة في
+                    الأمم المُتّحدة،
+                    كما إنها تشكّلُ اللّغة الأولى في مناطق بلاد الشّام، وشبه الجزيرة العربيّة، وشمال أفريقيا، وساهم هذا
+                    الانتشار الواسعُ
+                    للّغة العربيّة في تصنيفها كواحدةٍ من اللّغاتِ التي يسعى العديدُ من الطُلّاب إلى دراستها، وخصوصاً غير
+                    الناطقيّن بها؛ من
+                    أجل التعرّفِ على جمال كلماتها. كما أنّها من اللّغات التي ظلّت مُحافظةً على قواعدها اللغويّة حتّى هذا
+                    الوقت؛ لأنّها لغة
+                    الإسلام والمسلميّن والقرآنِ الكريم، كما أنّ الثّقافة العربيّة غنيّةٌ جدّاً بالعديد من المُؤلّفات،
+                    سواءً الأدبيّة، أو
+                    العلميّة، أو غيرها، والتي كُتِبتْ بِلُغَةٍ عربيّة فصيحة، ويصلُ العدد الإجماليُّ لحُروفِ اللّغة
+                    العربيّة إلى ثمانيّة
+                    وعشرين حرفاً.[١]
+                </p>
+            </div>
+            <div class="parent">
+                <img onclick="ShowContent()" src="images/Adel_Profile.jpg" alt="">
+            </div>
+            <div class="child">
+                <span>Hello Adel Hussin </span>
+                <button id="close" onclick="CloseDiv()"><i class=" fa-solid fa-xmark"></i></button>
+
+
+            </div>
+
+            <div class=" gallary">
+                <div><img class="photo" src="images/1.jpg" alt=""></div>
+                <div><img class="photo" src="images/2.jpg" alt=""></div>
+                <div><img class="photo" src="images/3.jpg" alt=""></div>
+                <div><img class="photo" src="images/4.jpg" alt=""></div>
+
+            </div>
+
+            <div class="gallary">
+                <div><img draggable="true" ondragstart="DragImage(this)" class="photo" src="images/1.jpg" alt=""></div>
+                <div><img draggable="true" ondragstart="DragImage(this)" class="photo" src="images/2.jpg" alt=""></div>
+                <div><img draggable="true" ondragstart="DragImage(this)" class="photo" src="images/3.jpg" alt=""></div>
+                <div><img class="photo" src="images/4.jpg" alt=""></div>
+
+            </div>
+            <div class="drag" ondragover="event.preventDefault()" ondrop="DropImage(this)">Drag Any Image Here</div>
+        </div>
+        <script>
+            var parent = document.getElementsByClassName( "parent" )[ 0 ];
+            var child = document.getElementsByClassName( "child" )[ 0 ];
+            function CloseDiv ()
+            {
+                child.style.width = "100px";
+                child.style.opacity = 0;
+            }
+            function ShowContent ()
+            {
+                child.style.opacity = 1;
+                child.style.borderRadius = "54px";
+                child.style.width = "300px";
+                child.style.backgroundColor = "gray";
+            }
+
+            var draggableimg
+            function DragImage ( element )
+            {
+                draggableimg = element;
+            }
+            function DropImage ( _element )
+            {
+                _element.appendChild( draggableimg );
+            }
+
+        </script>
+    </body>
+
+</html>

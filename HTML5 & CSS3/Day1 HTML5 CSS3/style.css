@@ -1,0 +1,371 @@
+ /* Variable for main color portfolio */
+ :root {
+     --MainColor: #ff8c05;
+ }
+
+ /* Server Fonts */
+ @font-face {
+     font-family: 'Robot';
+     src: url(fonts/RobotoCondensed-Light.ttf);
+ }
+
+ * {
+     font-family: 'Robot', sans-serif;
+ }
+
+ /* Web Fonts  */
+ h2,
+ h3,
+ h4 {
+     font-family: 'Roboto Condensed', sans-serif;
+     font-style: italic
+ }
+
+ input {
+     width: 30%;
+     height: 25px;
+     padding: 0 px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+     border: solid 1px black;
+     background-color: #3CBC8D;
+     color: "red";
+     display: flex;
+     border-radius: 15px;
+     -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+     -ms-border-radius: 15px;
+     -o-border-radius: 15px;
+ }
+
+ input[type="submit"] {
+     background-color: #09c;
+     border-radius: 15px;
+     -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+     -ms-border-radius: 15px;
+     -o-border-radius: 15px;
+ }
+
+ input[type="checkbox"] {
+     width: auto;
+     display: inline-flex;
+     background-color: #09c;
+     border-radius: 15px;
+     -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+     -ms-border-radius: 15px;
+     -o-border-radius: 15px;
+ }
+
+ body {
+     font-family: "Work-sans", sans-serif;
+
+ }
+
+ header {
+     background-color: var(--MainColor);
+     height: 170px;
+
+ }
+
+ .container {
+     width: 600px;
+     padding-left: 15px;
+     padding-right: 15px;
+     margin-left: auto;
+     margin-right: auto;
+
+ }
+
+ .profile {
+     float: left;
+ }
+
+ .info {
+     float: right;
+     position: relative;
+     top: 30px;
+     right: 70px;
+     text-align: center
+ }
+
+ .personal_info {
+     line-height: 40px;
+ }
+
+ .profile {
+     position: relative;
+     background-color: rgb(164, 200, 212);
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     float: left;
+     top: 10px;
+     left: 30px;
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;
+ }
+
+ .profile img {
+     position: relative;
+     left: 7px;
+     top: 7px;
+     width: 90%;
+     height: 90%;
+     border-radius: 50%;
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;
+ }
+
+ .skillsHigh {
+     position: relative;
+     left: 50px;
+     width: 30%;
+     height: 15px;
+     background-color: firebrick;
+     float: left;
+ }
+
+ .skillsMidium {
+     position: relative;
+     left: 38%;
+     width: 30%;
+     height: 15px;
+     background-color: var(--MainColor);
+ }
+
+ .skillsbottom {
+     position: relative;
+     right: 10%;
+     width: 25%;
+     height: 15px;
+     background-color: #09c;
+     float: right;
+     bottom: 15px;
+ }
+
+ .sideLeft {
+     position: relative;
+     float: left;
+     width: 50%;
+ }
+
+ .clear {
+     clear: both;
+ }
+
+ .sideRight {
+     position: relative;
+     float: right;
+     width: 50%;
+ }
+
+ .achievments,
+ .experience,
+ .eductaion {
+     background-color: var(--MainColor);
+     color: white;
+ }
+
+ .achievments,
+ .experience,
+ .eductaion,
+ .contact,
+ .languages,
+ .skills,
+ .online {
+     position: relative;
+     text-align: center;
+     width: 300px;
+     line-height: 20px;
+
+ }
+
+ article {
+     background-color: white;
+     color: black;
+     padding-top: 3px;
+     text-align: justify;
+     line-height: 17px;
+ }
+
+ article>div {
+     line-height: 15px;
+ }
+
+ h2 {
+     position: relative;
+     top: 10px;
+     text-align: center
+ }
+
+ article p {
+     font-size: 15px;
+ }
+
+ h4 {
+     text-align: left;
+ }
+
+ i {
+     color: var(--MainColor);
+     font-size: 20px;
+ }
+
+ .languages div {
+     text-align: left;
+     line-height: 20px;
+ }
+
+ progress {
+     width: 85%;
+     text-align: left;
+     height: 15px;
+     border-radius: 0px;
+     background: var(--MainColor);
+     -webkit-border-radius: 0px;
+     -moz-border-radius: 0px;
+     -ms-border-radius: 0px;
+     -o-border-radius: 0px;
+ }
+
+ progress::-webkit-progress-bar {
+     background: gray
+ }
+
+ .english::-webkit-progress-value {
+     background: var(--MainColor);
+ }
+
+ .french::-webkit-progress-value {
+     background: #09c;
+ }
+
+ .arabic::-webkit-progress-value {
+     background: firebrick;
+ }
+
+ .online>div {
+     padding: 10px;
+     display: inline;
+
+ }
+
+ .copyfooter {
+     font-style: oblique;
+     text-align: center;
+     padding: 15px;
+     font-family: emoji;
+     font-size: medium;
+ }
+
+ .copyfooter>span {
+     color: var(--MainColor)
+ }
+
+ .percentage {
+     position: relative;
+     float: right;
+     bottom: 16px;
+     right: 43px;
+     font-style: italic;
+     color: orangered;
+ }
+
+ /* To Draw Circle First border-radius :50% */
+ .circle_progress {
+     width: 65px;
+     height: 65px;
+     /*Todrawcircle*/
+     border-radius: 50%;
+     border: 1px solid #cdcbd0;
+     /*Tocolorpercentageandremainingfrompercentageuseconic-gradient(colorfilldegree,remainingcolorareadegree)*/
+
+     display: inline-flex;
+     align-items: center;
+     justify-content: space-around;
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;
+ }
+
+
+ .circle_progress::before {
+     content: "";
+     position: absolute;
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     background-color: white;
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;
+ }
+
+ .progress_value {
+     position: relative;
+     font-weight: 150;
+     color: #432cc4;
+     left: 19px;
+
+ }
+
+ .progress_text {
+     position: relative;
+     font-size: 20;
+     color: #432cc4;
+     top: 45px;
+     right: 15px;
+
+ }
+
+ .personal_languages {
+     padding-top: 10px;
+ }
+
+ .parent_progress {
+     display: table-cell;
+     right: 10px;
+     position: relative;
+     padding-bottom: 30px;
+     padding-top: 15px;
+ }
+
+ .circle_progress:nth-of-type(1) {
+     background: conic-gradient(rgb(39, 75, 192) 290deg, gray 0deg);
+ }
+
+ .circle_progress:nth-of-type(2) {
+     background: conic-gradient(firebrick 270deg, gray 0deg);
+ }
+
+ .circle_progress:nth-of-type(3) {
+     background: conic-gradient(rgb(197, 107, 24) 250deg, gray 0deg);
+ }
+
+ .circle_progress:nth-of-type(4) {
+     background: conic-gradient(rgb(196, 40, 183) 220deg, gray 0deg);
+ }
+
+ .online i {
+     padding-top: 20px;
+ }
+
+ .about {
+     height: 180px;
+ }
+
+ .about video {
+     position: relative;
+     width: 95%;
+     right: 15px;
+     height: auto;
+     padding-top: 20px;
+ }

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Form Inputs</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div>
+            <form action="main.html" onsubmit="">
+                <label for="fullName">Full Name</label>
+                <input type="text" required id="fullName" name="fullName"
+                    placeholder="Enter Your Full Name"><span></span>
+                <input type="email" required id="email" name="email" placeholder="Email">
+                <label for="birthdate">Select Birthdate</label>
+                <input type="date" name="" id="birthdate">
+                <input list="city" placeholder="Choose your City">
+                <datalist name="city" id="city">
+                    <option selected disabled>Please Choose City</option>
+                    <option value="Beni-Suef">Beni-Suef</option>
+                    <option value="Somosta">Somosta</option>
+                    <option value="Beba">Beba</option>
+                    <option value="El-fashen">El-fashen</option>
+                    <option value="Bedhal">Bedhal</option>
+                </datalist>
+                <input type="time">
+
+                <label for="resume">Upload your Resume</label>
+                <input type="file" name="" id="resume">
+                <input type="text" required id="text" readonly name="text" placeholder="ID">
+                <input type="search" placeholder="Search your Name">
+                <input type="number" id="degree" size="15" name="degree" value="0" min="0" max="100"
+                    placeholder="Degree">
+                <textarea name="" id="" cols="30" rows="10" placeholder="Enter your Skills"></textarea>
+                <input type="submit" id="btn" value="Save Data">
+
+            </form>
+        </div>
+        <script src="main.js"></script>
+    </body>
+
+</html>
