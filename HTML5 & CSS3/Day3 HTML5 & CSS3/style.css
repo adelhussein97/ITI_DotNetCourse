@@ -1,0 +1,68 @@
+.container {
+    width: 650px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 2s;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    -webkit-transition: all 2s;
+    -moz-transition: all 2s;
+    -ms-transition: all 2s;
+    -o-transition: all 2s;
+}
+
+.gallary div {
+    display: inline-block;
+    margin: 25px;
+}
+
+.gallary>img {
+    width: 150px;
+    height: 150px;
+    transition: all 2s !important;
+    -webkit-transition: all 2s !important;
+    -moz-transition: all 2s !important;
+    -ms-transition: all 2s !important;
+    -o-transition: all 2s !important;
+}
+
+.photo:hover {
+    transform: scale(1.5);
+    box-shadow: 10px 10px 15px 5px grey;
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+
+}
+
+.drag {
+    width: 550px;
+    height: 250px;
+    border-style: 2px solid gray;
+    background-color: antiquewhite;
+}
+
+.drag>img {
+    display: inline-block;
+    margin: 15px;
+
+}
+
+.changeStyle:hover {
+    fill: aqua;
+}

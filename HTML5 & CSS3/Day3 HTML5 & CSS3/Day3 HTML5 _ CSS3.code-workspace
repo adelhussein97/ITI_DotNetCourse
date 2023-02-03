@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Day2 CSS3"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Day2 CSS3",
+    "liveServer.settings.port": 5501
+  }
+}
