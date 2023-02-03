@@ -1,0 +1,23 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\bin\Debug\netcoreapp3.1\Lab6_Drawing_GridView.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\bin\Debug\netcoreapp3.1\Lab6_Drawing_GridView.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\bin\Debug\netcoreapp3.1\Lab6_Drawing_GridView.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\bin\Debug\netcoreapp3.1\Lab6_Drawing_GridView.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\bin\Debug\netcoreapp3.1\Lab6_Drawing_GridView.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\bin\Debug\netcoreapp3.1\Lab6_Drawing_GridView.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_DrawingMouse.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_FontFormats.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_FontStyle - Copy.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_FontStyle.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_Inputs.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_Registration.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.Frm_Trainee.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.MainForm.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.csproj.GenerateResource.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab6_Drawing_GridView\Lab6_Drawing_GridView\obj\Debug\netcoreapp3.1\Lab6_Drawing_GridView.genruntimeconfig.cache

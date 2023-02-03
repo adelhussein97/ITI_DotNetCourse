@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab6_Drawing_GridView/1.0.0": {
+        "runtime": {
+          "Lab6_Drawing_GridView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6_Drawing_GridView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
