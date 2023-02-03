@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\bin\Debug\netcoreapp3.1\Day1_InterfaceTask.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\bin\Debug\netcoreapp3.1\Day1_InterfaceTask.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\bin\Debug\netcoreapp3.1\Day1_InterfaceTask.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\bin\Debug\netcoreapp3.1\Day1_InterfaceTask.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\bin\Debug\netcoreapp3.1\Day1_InterfaceTask.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\bin\Debug\netcoreapp3.1\Day1_InterfaceTask.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Day1_InterfaceTask\obj\Debug\netcoreapp3.1\Day1_InterfaceTask.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Generic_Collections_ZooSys</id>
+    <version>1.0.0</version>
+    <authors>Generic_Collections_ZooSys</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.runtimeconfig.json" target="lib\netcoreapp3.1\Generic_Collections_ZooSys.runtimeconfig.json" />
+    <file src="E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.dll" target="lib\netcoreapp3.1\Generic_Collections_ZooSys.dll" />
+  </files>
+</package>

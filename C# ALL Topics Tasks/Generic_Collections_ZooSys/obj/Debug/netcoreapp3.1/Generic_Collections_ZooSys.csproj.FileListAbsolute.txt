@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\bin\Debug\netcoreapp3.1\Generic_Collections_ZooSys.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Generic_Collections_ZooSys\obj\Debug\netcoreapp3.1\Generic_Collections_ZooSys.genruntimeconfig.cache

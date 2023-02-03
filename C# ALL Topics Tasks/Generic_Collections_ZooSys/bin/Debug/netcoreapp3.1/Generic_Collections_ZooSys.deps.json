@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generic_Collections_ZooSys/1.0.0": {
+        "runtime": {
+          "Generic_Collections_ZooSys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic_Collections_ZooSys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

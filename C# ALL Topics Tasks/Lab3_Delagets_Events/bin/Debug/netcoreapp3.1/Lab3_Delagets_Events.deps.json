@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab3_Delagets_Events/1.0.0": {
+        "runtime": {
+          "Lab3_Delagets_Events.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3_Delagets_Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

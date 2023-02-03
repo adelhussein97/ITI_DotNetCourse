@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\bin\Debug\netcoreapp3.1\Lab3_Delagets_Events.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\bin\Debug\netcoreapp3.1\Lab3_Delagets_Events.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\bin\Debug\netcoreapp3.1\Lab3_Delagets_Events.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\bin\Debug\netcoreapp3.1\Lab3_Delagets_Events.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\bin\Debug\netcoreapp3.1\Lab3_Delagets_Events.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\bin\Debug\netcoreapp3.1\Lab3_Delagets_Events.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab3_Delagets_Events\obj\Debug\netcoreapp3.1\Lab3_Delagets_Events.genruntimeconfig.cache
