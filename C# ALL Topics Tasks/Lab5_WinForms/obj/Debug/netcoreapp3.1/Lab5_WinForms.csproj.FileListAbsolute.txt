@@ -1,0 +1,21 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\bin\Debug\netcoreapp3.1\Lab5_WinForms.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\bin\Debug\netcoreapp3.1\Lab5_WinForms.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\bin\Debug\netcoreapp3.1\Lab5_WinForms.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\bin\Debug\netcoreapp3.1\Lab5_WinForms.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\bin\Debug\netcoreapp3.1\Lab5_WinForms.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\bin\Debug\netcoreapp3.1\Lab5_WinForms.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.Frm_Conversion.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.Frm_Registration - Copy.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.Frm_Registration.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.MainForm - Copy.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.MainForm.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.csproj.GenerateResource.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.genruntimeconfig.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab5_WinForms\obj\Debug\netcoreapp3.1\Lab5_WinForms.Frm_Calculator.resources

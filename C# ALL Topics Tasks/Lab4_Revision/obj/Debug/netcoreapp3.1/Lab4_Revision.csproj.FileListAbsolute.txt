@@ -1,0 +1,14 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\bin\Debug\netcoreapp3.1\Lab4_Revision.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\bin\Debug\netcoreapp3.1\Lab4_Revision.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\bin\Debug\netcoreapp3.1\Lab4_Revision.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\bin\Debug\netcoreapp3.1\Lab4_Revision.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\bin\Debug\netcoreapp3.1\Lab4_Revision.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\bin\Debug\netcoreapp3.1\Lab4_Revision.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.genruntimeconfig.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab4_Revision\obj\Debug\netcoreapp3.1\Lab4_Revision.csproj.AssemblyReference.cache
