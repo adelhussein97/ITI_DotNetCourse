@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Company_SDModelStoreContainer" CdmEntityContainer="Company_SDEntities">
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="Company_SDModel.Department">
+        <MappingFragment StoreEntitySet="Departments">
+          <ScalarProperty Name="Dname" ColumnName="Dname" />
+          <ScalarProperty Name="Dnum" ColumnName="Dnum" />
+          <ScalarProperty Name="MGRSSN" ColumnName="MGRSSN" />
+          <ScalarProperty Name="MGRStart_Date" ColumnName="MGRStart Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="Company_SDModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Fname" ColumnName="Fname" />
+          <ScalarProperty Name="Lname" ColumnName="Lname" />
+          <ScalarProperty Name="SSN" ColumnName="SSN" />
+          <ScalarProperty Name="Bdate" ColumnName="Bdate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Superssn" ColumnName="Superssn" />
+          <ScalarProperty Name="Dno" ColumnName="Dno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

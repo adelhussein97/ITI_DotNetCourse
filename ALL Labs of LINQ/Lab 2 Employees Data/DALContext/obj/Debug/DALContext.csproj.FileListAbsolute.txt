@@ -1,0 +1,12 @@
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\DALContext.dll.config
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\DALContext.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\DALContext.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\EntityFramework.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\EntityFramework.xml
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\obj\Debug\DALContext.csproj.AssemblyReference.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\obj\Debug\DALContext.csproj.CoreCompileInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\obj\Debug\DALContext.csproj.CopyComplete
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\obj\Debug\DALContext.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\DALContext\obj\Debug\DALContext.pdb

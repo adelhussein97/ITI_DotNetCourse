@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Company_SDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Departments">
+    <Key>
+      <PropertyRef Name="Dnum" />
+    </Key>
+    <Property Name="Dname" Type="nvarchar" MaxLength="50" />
+    <Property Name="Dnum" Type="int" Nullable="false" />
+    <Property Name="MGRSSN" Type="int" />
+    <Property Name="MGRStart Date" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="SSN" />
+    </Key>
+    <Property Name="Fname" Type="nvarchar" MaxLength="50" />
+    <Property Name="Lname" Type="nvarchar" MaxLength="50" />
+    <Property Name="SSN" Type="int" Nullable="false" />
+    <Property Name="Bdate" Type="datetime" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sex" Type="nvarchar" MaxLength="50" />
+    <Property Name="Salary" Type="int" />
+    <Property Name="Superssn" Type="int" />
+    <Property Name="Dno" Type="int" />
+  </EntityType>
+  <Association Name="FK_Departments_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="Departments" Type="Self.Departments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="Departments">
+        <PropertyRef Name="MGRSSN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Employee_Departments">
+    <End Role="Departments" Type="Self.Departments" Multiplicity="0..1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departments">
+        <PropertyRef Name="Dnum" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="Dno" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Employee_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="Employee1" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="Employee1">
+        <PropertyRef Name="Superssn" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Company_SDModelStoreContainer">
+    <EntitySet Name="Departments" EntityType="Self.Departments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Departments_Employee" Association="Self.FK_Departments_Employee">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="Departments" EntitySet="Departments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Employee_Departments" Association="Self.FK_Employee_Departments">
+      <End Role="Departments" EntitySet="Departments" />
+      <End Role="Employee" EntitySet="Employee" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Employee_Employee" Association="Self.FK_Employee_Employee">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="Employee1" EntitySet="Employee" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

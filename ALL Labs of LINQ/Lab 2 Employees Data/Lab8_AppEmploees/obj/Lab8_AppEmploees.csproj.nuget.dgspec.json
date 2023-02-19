@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\Lab8_AppEmploees\\Lab8_AppEmploees.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj",
+        "projectName": "DALContext",
+        "projectPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\Lab8_AppEmploees\\Lab8_AppEmploees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\Lab8_AppEmploees\\Lab8_AppEmploees.csproj",
+        "projectName": "Lab8_AppEmploees",
+        "projectPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\Lab8_AppEmploees\\Lab8_AppEmploees.csproj",
+        "packagesPath": "C:\\Users\\odoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\Lab8_AppEmploees\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\odoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj": {
+                "projectPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj"
+              },
+              "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\N_TierLibrary\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\N_TierLibrary\\BusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\N_TierLibrary\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\N_TierLibrary\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\N_TierLibrary\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\odoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\N_TierLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\odoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj": {
+                "projectPath": "C:\\Users\\odoo\\Desktop\\Lab8_AppEmploees\\DALContext\\DALContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

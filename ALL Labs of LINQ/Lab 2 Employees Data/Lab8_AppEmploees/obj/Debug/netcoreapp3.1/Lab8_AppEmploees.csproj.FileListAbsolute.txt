@@ -1,0 +1,58 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.exe
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.runtimeconfig.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.runtimeconfig.dev.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.GenerateResource.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.genruntimeconfig.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\N_TierLibrary.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\N_TierLibrary.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.CopyComplete
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.Frm_Employees.resources
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.Frm_Department.resources
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.AssemblyReference.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.Frm_Department.resources
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.Frm_Employees.resources
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.GenerateResource.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.AssemblyInfoInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.AssemblyInfo.cs
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.CoreCompileInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.exe
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.dll.config
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.deps.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.runtimeconfig.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.runtimeconfig.dev.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\Lab8_AppEmploees.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\DALContext.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\DALContext.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\DALContext.dll.config
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.csproj.CopyComplete
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\obj\Debug\netcoreapp3.1\Lab8_AppEmploees.genruntimeconfig.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\Lab8_AppEmploees\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
