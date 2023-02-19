@@ -1,0 +1,17 @@
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.dev.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\DALContext.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\DALContext.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\DALContext.dll.config
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\BusinessLayer.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.deps.json
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.AssemblyInfoInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.AssemblyInfo.cs
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.dll
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.pdb
+E:\ITI Qena .Net Full Stack\10.C#\C# All Tasks\Day1_InterfaceTask\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.csproj.AssemblyReference.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.csproj.AssemblyReference.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.AssemblyInfoInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.AssemblyInfo.cs
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.deps.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.runtimeconfig.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.runtimeconfig.dev.json
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\N_TierLibrary.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\DALContext.dll
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\DALContext.pdb
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\bin\Debug\netcoreapp3.1\DALContext.dll.config
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.csproj.CopyComplete
+C:\Users\odoo\Desktop\Lab8_AppEmploees\N_TierLibrary\obj\Debug\netcoreapp3.1\N_TierLibrary.genruntimeconfig.cache
