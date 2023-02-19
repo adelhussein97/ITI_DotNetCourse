@@ -1,0 +1,25 @@
+D:\My Work\Instructor\Intake30\Focus\LINQ\Course Details\Day 1\For Staff\LINQtoObject\LINQtoObject\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\Instructor\Intake30\Focus\LINQ\Course Details\Day 1\For Staff\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.exe
+D:\My Work\Instructor\Intake30\Focus\LINQ\Course Details\Day 1\For Staff\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.pdb
+D:\My Work\Instructor\Intake30\Focus\LINQ\Course Details\Day 1\For Staff\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+D:\My Work\Instructor\Intake30\Focus\LINQ\Course Details\Day 1\For Staff\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+C:\Users\Basma\Desktop\LINQ -Day 1\For Staff\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+C:\Users\Basma\Desktop\LINQ -Day 1\For Staff\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+C:\Users\Basma\Desktop\LINQ -Day 1\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+C:\Users\Basma\Desktop\LINQ -Day 1\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+E:\Intake30\Courses\FocusCourses\LINQ_Course\LINQ -Day 1\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+E:\Intake30\Courses\FocusCourses\LINQ_Course\LINQ -Day 1\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+C:\Users\Basma\Desktop\LINQ_2012\LINQ_Day3\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+C:\Users\Basma\Desktop\LINQ_2012\LINQ_Day3\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+E:\Intake 32\Cloud Developer-SD\Focus_Courses\LINQ_2012\LINQ_Day3\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+E:\Intake 32\Cloud Developer-SD\Focus_Courses\LINQ_2012\LINQ_Day3\For Students\Assignments\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+C:\Users\Basma\Desktop\LINQ_Day3_Lab\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+C:\Users\Basma\Desktop\LINQ_Day3_Lab\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+F:\Intakes\Focus\Linq\Intake33\LINQ\Day 3\LINQ_Day3_Lab\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+F:\Intakes\Focus\Linq\Intake33\LINQ\Day 3\LINQ_Day3_Lab\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
+E:\ITI Qena .Net Full Stack\11.LINQ + EF\Day1 LINQ\Demo LINQ\Assignment\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.exe
+E:\ITI Qena .Net Full Stack\11.LINQ + EF\Day1 LINQ\Demo LINQ\Assignment\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.pdb
+E:\ITI Qena .Net Full Stack\11.LINQ + EF\Day1 LINQ\Demo LINQ\Assignment\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.csproj.AssemblyReference.cache
+E:\ITI Qena .Net Full Stack\11.LINQ + EF\Day1 LINQ\Demo LINQ\Assignment\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.csproj.CoreCompileInputs.cache
+E:\ITI Qena .Net Full Stack\11.LINQ + EF\Day1 LINQ\Demo LINQ\Assignment\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+E:\ITI Qena .Net Full Stack\11.LINQ + EF\Day1 LINQ\Demo LINQ\Assignment\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb
