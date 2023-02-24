@@ -1,0 +1,17 @@
+E:\API_EcommerceITI\ECommerceDbContext\bin\Debug\net7.0\ECommerceDbContext.deps.json
+E:\API_EcommerceITI\ECommerceDbContext\bin\Debug\net7.0\ECommerceDbContext.runtimeconfig.json
+E:\API_EcommerceITI\ECommerceDbContext\bin\Debug\net7.0\ECommerceDbContext.dll
+E:\API_EcommerceITI\ECommerceDbContext\bin\Debug\net7.0\ECommerceDbContext.pdb
+E:\API_EcommerceITI\ECommerceDbContext\bin\Debug\net7.0\Domains.dll
+E:\API_EcommerceITI\ECommerceDbContext\bin\Debug\net7.0\Domains.pdb
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.csproj.AssemblyReference.cache
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.AssemblyInfoInputs.cache
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.AssemblyInfo.cs
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.csproj.CoreCompileInputs.cache
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.csproj.CopyComplete
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.dll
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\refint\ECommerceDbContext.dll
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.pdb
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ECommerceDbContext.genruntimeconfig.cache
+E:\API_EcommerceITI\ECommerceDbContext\obj\Debug\net7.0\ref\ECommerceDbContext.dll

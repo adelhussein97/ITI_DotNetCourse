@@ -1,0 +1,12 @@
+E:\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\API_EcommerceITI\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\API_EcommerceITI\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
