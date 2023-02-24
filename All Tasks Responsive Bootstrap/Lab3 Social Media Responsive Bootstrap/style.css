@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav.navbar {
+    height: 2rem;
+}
+
+.rounded-circle {
+    position: relative;
+    width: 2rem;
+    height: 2rem;
+}
+
+.float-end {
+    position: absolute;
+    right: 2rem;
+    bottom: 10px;
+}
+
+.profile {
+    width: 5rem;
+    height: 5rem;
+}
+
+.img-profile {
+    bottom: 24rem;
+    left: 8rem
+}
+
+.sty-pp {
+    text-align: justify !important;
+}
